@@ -18,8 +18,6 @@ This shows a shader effect in p5.js that demonstrates how it look like.
 
 **Example implementation**
 
--[Code Example 1](https://aferriss.github.io/p5jsShaderExamples/4_image-effects/4-11_bloom/)  
-
 -[Code Example 2](https://github.com/aferriss/p5jsShaderExamples)
 
 -[Code Example 3](https://codepen.io/kekkorider/pen/yRvbzm)
