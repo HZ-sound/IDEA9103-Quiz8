@@ -13,11 +13,11 @@ The artistic inspiration for this final art programming project stems from the s
 
 As for the technique used in the image，we can use p5.js.When coding In p5.js, the holographic neon look can be achieved by combining additive blending, bloom blur, RGB color offset, and scanline shaders. Bright areas are isolated and blurred to create glow, while slight channel shifts produce digital fringes. Scanline and noise textures simulate holographic projection, and exponential fog softens the edges to create depth.The method above could reproduce an effect visually similar to the image.
 
-This shows a shader effect in p5.js that demonstrates how it look like.
+This picture shows a shader effect in p5.js that demonstrates how it look like.
 ![p5.filterShader Example](https://github.com/BarneyWhiteman/p5.filterShader/raw/main/example_posterise.png)
 
 **Example implementation**
 
--[Code Example 2](https://github.com/aferriss/p5jsShaderExamples)
+-[Code Example 1](https://github.com/aferriss/p5jsShaderExamples)
 
--[Code Example 3](https://codepen.io/kekkorider/pen/yRvbzm)
+-[Code Example 2](https://codepen.io/kekkorider/pen/yRvbzm)
