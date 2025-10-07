@@ -1,4 +1,4 @@
-# Quiz 8 – Artwork idea Exploration
+# Week 8 Quiz – Artwork idea Exploration
 
 ## Part 1: Imaging Technique Inspiration
 
@@ -17,6 +17,7 @@ This shows a shader effect in p5.js that demonstrates how it look like.
 ![p5.filterShader Example](https://github.com/BarneyWhiteman/p5.filterShader/raw/main/example_posterise.png)
 
 **Example implementation**
+
 -[Code Example 1](https://aferriss.github.io/p5jsShaderExamples/4_image-effects/4-11_bloom/)  
 
 -[Code Example 2](https://github.com/aferriss/p5jsShaderExamples)
